@@ -7,6 +7,6 @@ I did this project using my new knowledge, the function "srand()" to generate th
 
 </div>
 <h3>
-  • C language;
+  • C language
 </h3>
 <img src="https://img.shields.io/badge/Status-In_Progress-purple"\>
